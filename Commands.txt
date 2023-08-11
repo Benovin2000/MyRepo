@@ -1,0 +1,4 @@
+npm install
+ng g class Locations
+ng g service Location
+ng g component Location
